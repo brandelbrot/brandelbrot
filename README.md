@@ -25,6 +25,7 @@ Selected tools and experiments are now open source. Each repository includes its
 
 | Project | What it does |
 | --- | --- |
+| [Aletheia](https://github.com/brandelbrot/aletheia) | Evidence-aware reading: claim-level review with a code-enforced independence guardrail. |
 | [FocusShot](https://github.com/brandelbrot/focusshot) | Mac screenshots, OCR, and searchable capture history. |
 | [AI Chat Export](https://github.com/brandelbrot/ai-chat-export) | Local Markdown exports from ChatGPT, Claude, Gemini, Grok, and saved transcripts. |
 | [EasyTrailer](https://github.com/brandelbrot/easytrailer) | Editable trailer plans with optional agentic video understanding. |
