@@ -21,7 +21,20 @@ My work spans local-first Mac utilities, research and audio workflows, computer 
 
 ### Building in the open
 
-I'm preparing selected projects for public release, with clear setup instructions, reproducible examples, and explicit limitations. This profile will grow with the projects as they become available.
+Selected tools and experiments are now open source. Each repository includes its setup instructions and current limitations.
+
+| Project | What it does |
+| --- | --- |
+| [FocusShot](https://github.com/brandelbrot/focusshot) | Mac screenshots, OCR, and searchable capture history. |
+| [AI Chat Export](https://github.com/brandelbrot/ai-chat-export) | Local Markdown exports from ChatGPT, Claude, Gemini, Grok, and saved transcripts. |
+| [EasyTrailer](https://github.com/brandelbrot/easytrailer) | Editable trailer plans with optional agentic video understanding. |
+| [Android Media Transfer](https://github.com/brandelbrot/android-media-transfer) | Browse and copy Android images to a Mac. |
+| [Wi-Fi Ledger](https://github.com/brandelbrot/wifi-ledger) | Local Wi-Fi accounting and a menu-bar dashboard. |
+| [Brandelbrot Research Engine](https://github.com/brandelbrot/brandelbrot-research-engine) | Source-grounded research, local audio, and a portable archive. |
+
+Also exploring [HoopLens](https://github.com/brandelbrot/hooplens) (basketball-tracking architecture), [TetherTally](https://github.com/brandelbrot/tethertally) (network usage and protection), and [PureMac](https://github.com/brandelbrot/puremac) (a cleanup interface prototype).
+
+More utilities: [Claude Reset Timer](https://github.com/brandelbrot/claude-reset-timer), [Breeze TTS Studio](https://github.com/brandelbrot/breeze-tts-studio), [Local TTS Studio](https://github.com/brandelbrot/local-tts-studio), and [Merit Feed](https://github.com/brandelbrot/merit-feed).
 
 If a tool helps you, tell me how you use it—or what would make it better.
 
